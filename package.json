@@ -1,0 +1,8 @@
+{
+  "name": "vue-basic",
+  "description": "Basic starter Vue app ",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Marcus Turnbo <marcus@emarcus.com>",
+  "license": "MIT"
+}
