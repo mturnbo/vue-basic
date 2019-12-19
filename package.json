@@ -4,5 +4,16 @@
   "version": "0.1.0",
   "main": "index.js",
   "author": "Marcus Turnbo <marcus@emarcus.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@vue/cli-service": "^4.1.1",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "dependencies": {
+    "vue": "^2.6.11"
+  },
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  }
 }
